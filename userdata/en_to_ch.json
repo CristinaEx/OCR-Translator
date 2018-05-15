@@ -1,0 +1,23 @@
+{
+	"ocr":{
+		"type":102,
+		"language":"ENG",
+		"appId":"你的ID",
+		"apiKey":"你的KEY",
+		"secretKey":"你的密匙"
+	},
+	"translator":{
+		"type":201,
+		"from":"ja",
+		"to":"zh-CN",
+		"appId":"你的ID",
+		"key":"你的KEY"
+	},
+	"delay":0,
+	"transparent":true,
+	"color":{
+		"r":0,
+		"g":0,
+		"b":0
+	}
+}

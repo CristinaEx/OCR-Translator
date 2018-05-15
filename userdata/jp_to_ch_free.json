@@ -1,0 +1,18 @@
+{
+	"ocr":{
+		"type":101,
+		"language":"jpn",
+	},
+	"translator":{
+		"type":201,
+		"from":"ja",
+		"to":"zh-CN"
+	},
+	"delay":0,
+	"transparent":true,
+	"color":{
+		"r":20,
+		"g":20,
+		"b":20
+	}
+}
